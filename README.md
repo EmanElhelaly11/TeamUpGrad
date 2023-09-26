@@ -6,8 +6,7 @@
 
 ## Description
 TeamUpGrad app is designed to assist students in finding suitable team members for their graduation projects.
-
----                  
+               
 ## Implemented Features
 - User can sign up, verify his email, log in and log out
 - User can update his profile
@@ -18,19 +17,18 @@ TeamUpGrad app is designed to assist students in finding suitable team members f
 - Team leader can accept or reject the join request
 - Notifications Screen
 
----
 
 ## Screenshots
 
 |      Splash     |       Sign up         |          Verification            | Update Profile
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="public/Screenshots/Splash.jpg" width="250" /> | <img src="public/Screenshots/Register.jpg" width="250" /> | <img src="public/Screenshots/Email-Verification.jpg" width="250" /> |  <img src="public/Screenshots/Edit-profile.jpg" width="250" /> |
+| <img src="public/Screenshots/Splash.jpg" width="270" /> | <img src="public/Screenshots/Register.jpg" width="270" /> | <img src="public/Screenshots/Email-Verification.jpg" width="270" /> |  <img src="public/Screenshots/Edit-profile.jpg" width="270" /> |
 
 |            Home            |     Individuals |   Team        | Notifications |
 |:--------------------------:|:--------------------------:|:------------:|:--------------------------:|
-| <img src="public/Screenshots/Home.jpg" width="250" /> | <img src="public/Screenshots/Individuals.jpg" width="250" /> | <img src="public/Screenshots/Team.jpg" width="250" /> |  <img src="public/Screenshots/Notification.jpg" width="250" /> |
+| <img src="public/Screenshots/Home.jpg" width="270" /> | <img src="public/Screenshots/Individuals.jpg" width="270" /> | <img src="public/Screenshots/Team.jpg" width="270" /> |  <img src="public/Screenshots/Notification.jpg" width="270" /> |
 
----
+
 ## Installation
 
 1- Clone the project
@@ -66,9 +64,9 @@ TeamUpGrad app is designed to assist students in finding suitable team members f
 ```bash
   php artisan serve 
 ```
----
+
 ## Contributors
----
+
 ### Android Developers
 - Mohamed Emad: [GitHub Profile](https://github.com/Mohamed02Emad)
 - Mai Elkhodery: [GitHub Profile](https://github.com/maielkhodery)
@@ -79,7 +77,7 @@ TeamUpGrad app is designed to assist students in finding suitable team members f
 
 ### UI/UX Designer
 - Menna Elgayar: [GitHub Profile](https://github.com/MennaElgyar)
----
+- 
 ## Android Code
 (https://github.com/Mohamed02Emad/TeamUpGrad)
 
