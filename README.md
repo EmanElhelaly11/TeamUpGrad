@@ -22,11 +22,11 @@ TeamUpGrad app is designed to assist students in finding suitable team members f
 
 |      Splash     |       Sign up         |   Verification      | Update Profile
 |:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="public/Screenshots/Splash.jpg" width="250" /> | <img src="public/Screenshots/Register.jpg" width="250" /> | <img src="public/Screenshots/Email-Verification.jpg" width="250" /> |  <img src="public/Screenshots/Edit-profile.jpg" width="250" /> |
+| <img src="public/Screenshots/Splash.jpg" width="300" /> | <img src="public/Screenshots/Register.jpg" width="300" /> | <img src="public/Screenshots/Email-Verification.jpg" width="300" /> |  <img src="public/Screenshots/Edit-profile.jpg" width="300" /> |
 
 |            Home            |     Individuals   |   Team        | Notifications |
 |:--------------------------:|:--------------------------:|:----------------:|:--------------------------:|
-| <img src="public/Screenshots/Home.jpg" width="250" /> | <img src="public/Screenshots/Individuals.jpg" width="250" /> | <img src="public/Screenshots/Team.jpg" width="250" /> |  <img src="public/Screenshots/Notification.jpg" width="250" /> |
+| <img src="public/Screenshots/Home.jpg" width="300" /> | <img src="public/Screenshots/Individuals.jpg" width="300" /> | <img src="public/Screenshots/Team.jpg" width="300" /> |  <img src="public/Screenshots/Notification.jpg" width="300" /> |
 
 
 ## Installation
